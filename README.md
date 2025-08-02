@@ -1,6 +1,10 @@
 # INDUCTION_PROGRAM
--Samaira
--It Branch
--Day 1
--"As i stepped into the world of information technology the induction program has been a transformative experience,laying the foundation for my academic laying the foundation for academic journey and sharing my perspective on the field"
--It all began with the introduction to the guests
+##Welcome address
+-**Speaker**:Mr Harsimran Singh Jaggi 
+-**Ocassion**-Induction program for new students
+-**Hightlights of the address**-
+   -Extended a warm welcome to all attendees and new students.
+   -Spoke about the **rich ancient history** and heritage of the institution.
+   -Mentioned the **celebration of the 70th golden jubilee**, marking seven decades of excellence.
+   -Highlighted **Significant milestones in reasearch and innovation** achieved by the institution.
+   -Shared the pride of achieving **NAAC 'A' grade accreditation**.
