@@ -14,3 +14,8 @@
    - **Academic achievements**:CSE department topper (batch 2021-2025)
    - **Leadership and involvement**: Served as a Convener of the Causmic club.
    - Demonstrated strong leadership and teamwork qualities.
+ - **Placement preparation advice**:Focus on programming especially data structures and algorithms(DSA)
+   - Strengthen understanding of core **CS subjects**.
+   - Practice aptitude which is a key component in hiring process.
+ - **Communication skills**: Emphasised the importance of strong communication skills for interviews.
+ - **Message to juniors**:Grateful for the warming environment and opportunity provided by the college.
