@@ -1,4 +1,5 @@
 # INDUCTION_PROGRAM
+- **Day 1**
 - Welcome address
 - **Speaker**:Mr Harsimran Singh Jaggi 
 - **Ocassion**-Induction program for new students
@@ -8,3 +9,8 @@
    - Mentioned the **celebration of the 70th golden jubilee**, marking seven decades of excellence.
    - Highlighted **Significant milestones in reasearch and innovation** achieved by the institution.
    - Shared the pride of achieving **NAAC 'A' grade accreditation**.
+ - **Alumni highlight**: Sangam arora (CSE batch 2021-2025)
+   - **Current role**:Software Engineer at argusoft
+   - **Academic achievements**:CSE department topper (batch 2021-2025)
+   - **Leadership and involvement**: Served as a Convener of the Causmic club.
+   - Demonstrated strong leadership and teamwork qualities.
