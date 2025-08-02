@@ -19,3 +19,10 @@
    - Practice aptitude which is a key component in hiring process.
    - **Communication skills**: Emphasised the importance of strong communication skills for interviews.
    - **Message to juniors**:Grateful for the warming environment and opportunity provided by the college.
+ - **Harpreet kaur grewal ma'am**:Welcomed and greeted all new students with sat shri akal.
+   - Shared a meaningful analogy between life and continous function encouraging students to find connections between        - academics and real life.
+   - Extended best wishes to all the students for the upcoming academic session.
+   - Encouraged students to become independent learners abd thinkers.
+   - Emphasised the importance of setting personal milestones from the very first day of college journey.
+   - 
+ 
