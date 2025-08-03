@@ -64,7 +64,11 @@
    - Enphasized that all branches of engineering are equally important.
    - Engineering is vital to innovation and societal development.
    - Noted the rise of **Artificial intelligence,Cyber security and data science**
-   - AI is now a major focus area 
+   - AI is now a major focus area with transformative impact across industries.
+   - Students must upskill according to industry requirements to stay competitive and relevant.
+   - Skill building is essential in the age of automation and AI.
+   - The job market for CSE and IT graduates is saturated.
+   - 
 
 
 
