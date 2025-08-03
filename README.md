@@ -38,3 +38,5 @@
    - **Visualise and Retain knowledge**:Visualising concepts helps in better understanding and improves retention.
        It enhances problem solving skills.
    - **Building confidence**: Confidence grows through practical experience and learning.Be proactive and believe in your        abilities.
+   - **Engineering beyond equations**: Engineering is not limited to solving equations.It involves understanding and             adressing real world problems.
+   - **Contribute to society**:Aim to solve complex societal problems with the knowledge gained.Make meaningful                  contributions to society.
