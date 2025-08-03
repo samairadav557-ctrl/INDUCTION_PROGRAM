@@ -31,3 +31,7 @@
    - **Acquire good skills**:Focus on building strong foundational and technical skills throughout the academic journey.
    - **Be curious and ask questions**:Cultivate a mindset of curiosity.Ask questions and explore to deepen your                  understanding.
    - **Interact with seniors**:Regularly engage with senior students and faculty members to gain insights and guidance.
+   - **Peer learning**:Collaborate with peers for knowledge sharing.Peer learning os essential for holistic growth.
+   - **Participate in extra curricular activities**:Extra curricular activities such as cultural events will contribute.         towards your overall marks and personal growth.
+   -   They help in balancing your academic and personal development.
+   - **Contionous learning**:
