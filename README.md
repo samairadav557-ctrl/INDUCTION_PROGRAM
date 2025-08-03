@@ -68,6 +68,9 @@
    - Students must upskill according to industry requirements to stay competitive and relevant.
    - Skill building is essential in the age of automation and AI.
    - The job market for CSE and IT graduates is saturated.
+     - Earlier 100-150 students hired per college
+     - Now 20-30 students hired.
+   - Importance of passion for learning 
    - 
 
 
