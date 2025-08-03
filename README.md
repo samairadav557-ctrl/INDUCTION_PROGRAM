@@ -40,3 +40,7 @@
    - **Building confidence**: Confidence grows through practical experience and learning.Be proactive and believe in your        abilities.
    - **Engineering beyond equations**: Engineering is not limited to solving equations.It involves understanding and             adressing real world problems.
    - **Contribute to society**:Aim to solve complex societal problems with the knowledge gained.Make meaningful                  contributions to society.
+ - **Welcome address:Parminder singh sir(Dean)**
+   - Dean Parminder songh sir warmly welcomed all newly admitted students to **Guru Nanak Dev Engineering College(GNE)
+   - Higlighted GNE's glorious legacy of 69 years in technical education and excellence.
+   - The induction 
