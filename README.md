@@ -43,4 +43,10 @@
  - **Welcome address:Parminder singh sir(Dean)**
    - Dean Parminder songh sir warmly welcomed all newly admitted students to **Guru Nanak Dev Engineering College(GNE)
    - Higlighted GNE's glorious legacy of 69 years in technical education and excellence.
-   - The induction 
+   - The induction coincided with the shaheedi diwas of **Sardar Udham Singh**:
+     - At the age of 40 Sardar Udham singh attained martyrdom.
+     - His life teaches that strong determination can overcome any obstacles.
+ - Encouraged students to:
+   - Work hard,as there is no substitute for it.
+   - Dream big and pursue goals with persistence.
+   - Understand the value of consistency and perseverance in achieving 
