@@ -34,7 +34,7 @@
    - **Peer learning**:Collaborate with peers for knowledge sharing.Peer learning os essential for holistic growth.
    - **Participate in extra curricular activities**:Extra curricular activities such as cultural events will contribute.         towards your overall marks and personal growth.
        They help in balancing your academic and personal development.
-   - **Contionous learning**: Never stop learning.Be relentless in seeking new knowledge and practical experience.
+   - **Continous learning**: Never stop learning.Be relentless in seeking new knowledge and practical experience.
    - **Visualise and Retain knowledge**:Visualising concepts helps in better understanding and improves retention.
        It enhances problem solving skills.
    - **Building confidence**: Confidence grows through practical experience and learning.Be proactive and believe in your        abilities.
