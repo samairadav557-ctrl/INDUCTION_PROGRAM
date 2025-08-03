@@ -70,8 +70,15 @@
    - The job market for CSE and IT graduates is saturated.
      - Earlier 100-150 students hired per college
      - Now 20-30 students hired.
-   - Importance of passion for learning 
-   - 
+   - Importance of passion for learning and continuous importantance was stressed.
+   - **GNE alumni are placed in top campanies like
+     - Google
+     - Microsoft
+     - Apple
+   - Encouraged active participation in regular studies and co curricular activities.
+   - Advised students to
+     - Respect parents and teachers.
+     - Have faith in God.
 
 
 
