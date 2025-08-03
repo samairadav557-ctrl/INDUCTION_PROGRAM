@@ -98,6 +98,12 @@
     - Urged students to stay goal oriented and work with dedication.
     - Motivated students to convert their goals into achievements through focused and timely action.
 - **Day2**
-  - The day began with a profiency test of english which was based upto the 12th grade curriculum
-  - After that another test of Maths was conducted which had aptitude based questions upto 12th grade curriculum.
-  - 
+  - **Proficiency test**
+    - The day began with a profiency test conducted for all students.
+    - The test covered 2 core subjects:
+      - English
+      - Mathematics
+    - The purpose of this test was to access student's existing knowledge and identify areas of improvement.
+  - **Lecture session in auditorium**
+    - After the test students gathered in the auditorium for a informative lecture.
+    
