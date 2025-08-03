@@ -1,5 +1,6 @@
 # INDUCTION_PROGRAM
 - **Day 1**
+- The day began with the blessings of waheguru through a path organised by the reputed institution in the college Gurudwara Sahib.
 - Welcome address
 - **Speaker**:Mr Harsimran Singh Jaggi 
 - **Ocassion**-Induction program for new students
@@ -96,5 +97,7 @@
     - Advised students to be friends with time:manage it wisely and value every moment.
     - Urged students to stay goal oriented and work with dedication.
     - Motivated students to convert their goals into achievements through focused and timely action.
-
-
+- **Day2**
+  - The day began with a profiency test of english which was based upto the 12th grade curriculum
+  - After that another test of Maths was conducted which had aptitude based questions upto 12th grade curriculum.
+  - 
