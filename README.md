@@ -111,4 +111,12 @@
       - It covered aspects like nutrition,food safety and sustainability.
       - The session was interactive and raised awareness about healthy food habits and their impact on academic                  performance.
  - **Scholarship awareness session**
-    -
+    - A special session was conducted for stydents interested in applying for scholarships.
+    - Scholarship beneficiaries also shared their experience and guidance.
+ - **Information provided**
+    - How to apply for college/university scholarship.
+    - Required documents and elegibility criteria.
+    - Deadlines and application process.
+ - Students were encouraged to apply if eligible and make use of the 
+   available financial aid opportunities.
+    
