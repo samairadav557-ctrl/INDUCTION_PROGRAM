@@ -91,6 +91,10 @@
     - Expressed a nostalgic connection with the college,recalling his time as a student from the 1991 electronics batch.
     - Extended his blessings and best wishes to all new students for a successful future.
     - Encouraged students to excel in their respective fields through consistent effort.
-    - Emphasised that success always come with hardwork and determination 
+    - Emphasised that success always come with hardwork and determination.
+    - Highlighted the importance of achieving financial stability alongside academic and career growth.
+    - Advised students to be friends with time:manage it wisely and value every moment.
+    - Urged students to stay goal oriented and work with dedication.
+    - Motivated students to convert their goals into achievements through focused and timely action.
 
 
