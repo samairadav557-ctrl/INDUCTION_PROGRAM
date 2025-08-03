@@ -82,9 +82,11 @@
    - Expressed belief in student's potential to become:
      - Skilled technocrats
      - Good human beings over the next 4 years.
-
-
-
+  - **Kulvinder Singh Maan Sir**
+    - Expressed that all students are fortunate and blessed to have gained admission into the college.
+    - Emphasised that there is no significant difference between Computer Science and Information technology branches.
+    - Encouraged students to work hard with consistency throughtout their academic journey.
+    - Assured that with consistent effort everyone can achieve their goals.
 
 
 
