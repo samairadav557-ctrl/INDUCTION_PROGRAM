@@ -87,7 +87,10 @@
     - Emphasised that there is no significant difference between Computer Science and Information technology branches.
     - Encouraged students to work hard with consistency throughtout their academic journey.
     - Assured that with consistent effort everyone can achieve their goals.
-
-
+  - **Rakesh kumar Sir's address(DCP ludhiana, Electronics branch:1991 batch)**
+    - Expressed a nostalgic connection with the college,recalling his time as a student from the 1991 electronics batch.
+    - Extended his blessings and best wishes to all new students for a successful future.
+    - Encouraged students to excel in their respective fields through consistent effort.
+    - Emphasised that success always come with hardwork and determination 
 
 
