@@ -1,4 +1,4 @@
-# INDUCTION_PROGRAM
+h# INDUCTION_PROGRAM
 - **Day 1**
 - Welcome address
 - **Speaker**:Mr Harsimran Singh Jaggi 
@@ -46,7 +46,24 @@
    - The induction coincided with the shaheedi diwas of **Sardar Udham Singh**:
      - At the age of 40 Sardar Udham singh attained martyrdom.
      - His life teaches that strong determination can overcome any obstacles.
- - Encouraged students to:
-   - Work hard,as there is no substitute for it.
-   - Dream big and pursue goals with persistence.
-   - Understand the value of consistency and perseverance in achieving 
+     - Encouraged students to:
+       - Work hard,as there is no substitute for it.
+       - Dream big and pursue goals with persistence.
+       - Understand the value of consistency and perseverance in achieving your goal.
+   - GNE offers a wide range of facilities and opportunities for holistic development:
+       - Technical clubs
+       - Library access
+       - NCC (National cadet cops) amd NSS (National service scheme)
+       - Well equipped sports facilities
+    - GNE has consistently excelled in sports maintaining a champion status in recent years.
+    - Regular events in **cultural abd fine arts** foster creativity and engagement.
+    - Assured that the coming 4 years
+
+
+
+
+
+
+
+
+
