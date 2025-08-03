@@ -58,7 +58,13 @@
     - GNE has consistently excelled in sports maintaining a champion status in recent years.
     - Regular events in **cultural abd fine arts** foster creativity and engagement.
     - Assured that the coming 4 years will **instill essential life skills** and enable students to reach their personal        and professional milestones.
-
+ - **Welcome address: Respected Sehajpal Sir(principal)**
+   - Warm welcome extended to all students.
+   - Highlighted the major of **CSE and IT** over the past 20 years.
+   - Enphasized that all branches of engineering are equally important.
+   - Engineering is vital to innovation and societal development.
+   - Noted the rise of **Artificial intelligence,Cyber security and data science**
+   - AI is now a major focus area 
 
 
 
