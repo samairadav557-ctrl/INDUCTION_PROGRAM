@@ -79,7 +79,9 @@
    - Advised students to
      - Respect parents and teachers.
      - Have faith in God.
-
+   - Expressed belief in student's potential to become:
+     - Skilled technocrats
+     - Good human beings over the next 4 years.
 
 
 
