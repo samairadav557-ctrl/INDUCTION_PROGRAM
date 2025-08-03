@@ -1,4 +1,4 @@
-h# INDUCTION_PROGRAM
+# INDUCTION_PROGRAM
 - **Day 1**
 - Welcome address
 - **Speaker**:Mr Harsimran Singh Jaggi 
@@ -57,7 +57,7 @@ h# INDUCTION_PROGRAM
        - Well equipped sports facilities
     - GNE has consistently excelled in sports maintaining a champion status in recent years.
     - Regular events in **cultural abd fine arts** foster creativity and engagement.
-    - Assured that the coming 4 years
+    - Assured that the coming 4 years will **instill essential life skills** and enable students to reach their personal        and professional milestones.
 
 
 
