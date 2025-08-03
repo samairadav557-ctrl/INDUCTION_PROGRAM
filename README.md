@@ -98,12 +98,17 @@
     - Urged students to stay goal oriented and work with dedication.
     - Motivated students to convert their goals into achievements through focused and timely action.
 - **Day2**
-  - **Proficiency test**
+ - **Proficiency test**
     - The day began with a profiency test conducted for all students.
     - The test covered 2 core subjects:
       - English
       - Mathematics
     - The purpose of this test was to access student's existing knowledge and identify areas of improvement.
-  - **Lecture session in auditorium**
+ - **Lecture session in auditorium**
     - After the test students gathered in the auditorium for a informative lecture.
-    
+    - The session was conducted by **Mr Arashdeep Singh Sir**
+    - **Topic of the lecture**:Food and its Importance
+      - It covered aspects like nutrition,food safety and sustainability.
+      - The session was interactive and raised awareness about healthy food habits and their impact on academic                  performance.
+ - **Scholarship awareness session**
+    -
