@@ -135,3 +135,5 @@
  - Encouraging students to pursue their goals with passion and integrity,he emphasized that success is achievable 
    through consistent effort and hard work.
  - His belief in the potential of every student was evident,as he expressed confidence that each individual with the        right effort and commitment could excel in their respective fields.
+ - His motivating words resonated deeply with the audience,fostering a sense of determination purpose among the students.
+ - The welcome address served not just as a formal opening but as a source of encouragement and inspiration that set the    stage for a day of meaningful learning and interaction.
