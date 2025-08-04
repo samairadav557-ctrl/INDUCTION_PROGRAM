@@ -131,4 +131,7 @@
  - **Welcome address by Sardar Gurcharan Singh Grewal Sir**
  - The session commenced with a heartfelt welcome by Sardar Gurcharan Singh Grewal Sir who extended his warm regards to     all the students and guest of honour,Mr Jaswinder Singh.
  - With great sincerity and gratitude, he set a positive tone for the day by appreciating the presence of  both the         students and the distinguished speaker.
- - In his address Sardar Gurchan Singh Sir shared words of wisdom aimed at inspiring the incoming batch.He spoke about      the importance of dedication, discipline
+ - In his address Sardar Gurchan Singh Sir shared words of wisdom aimed at inspiring the incoming batch.He spoke about      the importance of dedication, disciplineamd perserverance in the journey of academic and personal growth.
+ - Encouraging students to pursue their goals with passion and integrity,he emphasized that success is achievable 
+   through consistent effort and hard work.
+ - His belief in the potential of every student was evident,as he expressed confidence that each individual with the        right effort and commitment could excel in their respective fields.
