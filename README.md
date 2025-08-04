@@ -137,3 +137,8 @@
  - His belief in the potential of every student was evident,as he expressed confidence that each individual with the        right effort and commitment could excel in their respective fields.
  - His motivating words resonated deeply with the audience,fostering a sense of determination purpose among the students.
  - The welcome address served not just as a formal opening but as a source of encouragement and inspiration that set the    stage for a day of meaningful learning and interaction.
+- **Session report Universal human values by Dr.Priya Darshani Ma'am**
+ - As part of induction programme we had the privilege of attending an enlightening session on **Universal Human            Values** by **Dr.Priya Darshani Ma'am**.The session provided us sith meaningful insights into how values shape our       lives and influence our behaviour in society.
+- **Key highlights of the session**
+ - 1)**Introduction to Human aspirations**:Dr.Priya Darshani began the session by discussing the foundational elements
+ - that constitute a fulfilling human life.
