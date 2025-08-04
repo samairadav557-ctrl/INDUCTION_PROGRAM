@@ -118,5 +118,10 @@
     - Required documents and elegibility criteria.
     - Deadlines and application process.
  - Students were encouraged to apply if eligible and make use of the 
-   available financial aid opportunities.
+   available financial aid opportunities.-
+ - **Day3**
+ - The third day of the induction program began with the warm welcome to **Mr Jaswinder Singh Sir** fondly known as the     face behind JaswinS science on wheels.Renowmed for his engaging and innovative teaching methods.
+ - Jaswinder sir bought a unique blend of science and spirituality to the session.
+ - He opened the session by sharing insightful devotional sights,emphasising the role of faith, discipline,gratitude in     both personal and academic life.
+ - This spiritual introduction set a reflective and positive tone for the day.
     
