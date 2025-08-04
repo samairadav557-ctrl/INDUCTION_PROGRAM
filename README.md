@@ -128,3 +128,7 @@
  - What truly made the session stand out was Mr Singh's exceptional ability to connect with the students.
  - His interactive teaching style kept the audience engaged tbroughtout encouraging participation, curiosity and            critical thinking.
  - The students thoroughly enjoyed the session,describing it as fun,inspiring and intellectually stimulating.
+ - **Welcome address by Sardar Gurcharan Singh Grewal Sir**
+ - The session commenced with a heartfelt welcome by Sardar Gurcharan Singh Grewal Sir who extended his warm regards to     all the students and guest of honour,Mr Jaswinder Singh.
+ - With great sincerity and gratitude, he set a positive tone for the day by appreciating the presence of  both the         students and the distinguished speaker.
+ - In his address Sardar Gurchan Singh Sir shared words of wisdom aimed at inspiring the incoming batch.He spoke about      the importance of dedication, discipline
