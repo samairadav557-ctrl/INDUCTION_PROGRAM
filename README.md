@@ -120,8 +120,11 @@
  - Students were encouraged to apply if eligible and make use of the 
    available financial aid opportunities.-
  - **Day3**
+ - **Mr Jaswinder Singh Sir**
  - The third day of the induction program began with the warm welcome to **Mr Jaswinder Singh Sir** fondly known as the     face behind JaswinS science on wheels.Renowmed for his engaging and innovative teaching methods.
  - Jaswinder sir bought a unique blend of science and spirituality to the session.
  - He opened the session by sharing insightful devotional sights,emphasising the role of faith, discipline,gratitude in     both personal and academic life.
  - This spiritual introduction set a reflective and positive tone for the day.
-    
+ - What truly made the session stand out was Mr Singh's exceptional ability to connect with the students.
+ - His interactive teaching style kept the audience engaged tbroughtout encouraging participation, curiosity and            critical thinking.
+ - The students thoroughly enjoyed the session,describing it as fun,inspiring and intellectually stimulating.
