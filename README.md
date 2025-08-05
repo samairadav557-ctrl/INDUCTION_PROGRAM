@@ -141,4 +141,7 @@
  - As part of induction programme we had the privilege of attending an enlightening session on **Universal Human            Values** by **Dr.Priya Darshani Ma'am**.The session provided us sith meaningful insights into how values shape our       lives and influence our behaviour in society.
 - **Key highlights of the session**
  - 1)**Introduction to Human aspirations**:Dr.Priya Darshani began the session by discussing the foundational elements
- - that constitute a fulfilling human life.
+       that constitute a fulfilling human life.She imtroduced three key concepts thst every individual seeks to balance.
+     - **Physical facilities**:The material and tangible needs necessary for survival and comfort.
+     - **Relationships**:The emotional and social connections that enrich our lives.
+     - **Right understanding**:The clarity of thought amd values that guide our decision making and behaviour.
