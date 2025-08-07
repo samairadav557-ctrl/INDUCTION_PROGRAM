@@ -152,4 +152,8 @@
   - 3)**Relevance to society and co-existence**:The session also addressed how values guide us to harmoniously in society.Dr Darshani stressed the significance of mutual respect,empathy,
 and understanding in building a campassionate community.Through practical examples she illustrated how value based living leads to a more peaceful and sustainable world.
 - **Day4**
+- **Nisha ma'am**
   - The fourth day of the induction programme began on an engaging and insightful note, starting with the **first            lecture of english by Nisha ma'am**.All the students enthusiastically introduced themselves with confidence and poise.The session was designed to help students understand the importance of professional English communication skills.Nisha ma'am emphasized the use of fluent and effective english in both academic and professional settings.The session was highly interactive and the students participated actively making it a lively and enriching experience.
+- **Rajvir kaur ma'am**
+ - Following the English session,**the next lecture was conducted by Rajvir Kaur 
+   Ma'am from the chemistry department**.She began by introducing herself to the students amd then shared her insights      **on basic chemistry concepts that go beyond textbook learning**.She highlighted the importance of understanding real    world applications of chemistry.In addition she provided a detailed overview of the semester's course structure          giving students clarity on what to expect in the coming months.This session,too maintained an interactive tone           encouraging student involvement throughout.
