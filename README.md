@@ -144,4 +144,8 @@
        that constitute a fulfilling human life.She imtroduced three key concepts thst every individual seeks to balance.
      - **Physical facilities**:The material and tangible needs necessary for survival and comfort.
      - **Relationships**:The emotional and social connections that enrich our lives.
-     - **Right understanding**:The clarity of thought amd values that guide our decision making and behaviour.
+     - **Right understanding**:The clarity of thought and values that guide our decision making and behaviour.
+   2)**balancing the three aspects**: She emphasized the importance of wisely managing our time amd energy across these        three dimensions.Often, individuals excessively on physical facilities,neglecting relationships and self                 reflection.Dr Darshani encouraged us to :
+     - Evaluate how we currently allocate our time.
+     - Identity areas of more attention such as building strong relationships or improving self awareness.
+     - Strive for a balanced amd holistic lifestyle
