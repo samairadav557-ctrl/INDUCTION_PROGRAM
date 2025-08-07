@@ -145,7 +145,10 @@
      - **Physical facilities**:The material and tangible needs necessary for survival and comfort.
      - **Relationships**:The emotional and social connections that enrich our lives.
      - **Right understanding**:The clarity of thought and values that guide our decision making and behaviour.
-   2)**balancing the three aspects**: She emphasized the importance of wisely managing our time amd energy across these        three dimensions.Often, individuals excessively on physical facilities,neglecting relationships and self                 reflection.Dr Darshani encouraged us to :
+  - 2)**balancing the three aspects**: She emphasized the importance of wisely managing our time amd energy across these        three dimensions.Often, individuals excessively on physical facilities,neglecting relationships and self                 reflection.Dr Darshani encouraged us to :
      - Evaluate how we currently allocate our time.
      - Identity areas of more attention such as building strong relationships or improving self awareness.
-     - Strive for a balanced amd holistic lifestyle
+     - Strive for a balanced amd holistic lifestyle.
+  - 3)**Relevance to society and co-existence**:The session also addressed how values guide us to harmoniously in society.Dr Darshani stressed the significance of mutual respect,empathy,
+and understanding in building a campassionate community.Through practical examples she illustrated how value based living leads to a more peaceful and sustainable world.
+- **Day4**
