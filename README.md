@@ -152,3 +152,4 @@
   - 3)**Relevance to society and co-existence**:The session also addressed how values guide us to harmoniously in society.Dr Darshani stressed the significance of mutual respect,empathy,
 and understanding in building a campassionate community.Through practical examples she illustrated how value based living leads to a more peaceful and sustainable world.
 - **Day4**
+  - The fourth day of the induction programme began on an engaging and insightful note, starting with the **first            lecture of english by Nisha ma'am**.All the students enthusiastically introduced themselves with confidence and poise.The session was designed to help students understand the importance of professional English communication skills.Nisha ma'am emphasized the use of fluent and effective english in both academic and professional settings.The session was highly interactive and the students participated actively making it a lively and enriching experience.
