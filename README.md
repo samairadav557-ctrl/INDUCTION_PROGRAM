@@ -209,6 +209,13 @@ and understanding in building a campassionate community.Through practical exampl
    - Showcased various programs that run under CML.
    - Assisted students in registering for programs relevant to their fields.
    - A very informative and beneficial session.
+   - **Day7**
+   - **9:30 AM to 10:30AM speaker Dr.Amit Kamra(DMC)**
+   - Welcomed the students and initiated an active session.
+   - Introduced the **Digital marketing club** and explained it's salient features.
+   - Showcased student's talent through event videos(Anand utsav,Drone activity)
+   - Encouraged active participation in the club and future events
+   - **10:30 AM to 11:30 AM
      
    
      
