@@ -182,6 +182,15 @@ and understanding in building a campassionate community.Through practical exampl
    - Discussed foundational electronics concepts.
    - Provided detailed syllabus walkthrough.
    - Shared information about **upcoming tests and assessments in the course.
+  - **Day6**
+   - **9:30 AM to 10:30 AM:P2P lecture by seniors**
+   - Interactive session conducted by seniors
+   - Recap of the previous lecture.
+   - Introduction to the **format of for loop**.
+   - Demonstrated examples on how to frame for loop programs.
+   - A highly engaging and informative session filled with new learning.
+   - **10:30 AM to 11:30 AM:BEEE lecture by Professor Sukhpal Singh**
+     
      
      
      
