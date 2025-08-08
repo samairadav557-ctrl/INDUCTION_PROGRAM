@@ -1,4 +1,4 @@
-# INDUCTION_PROGRAM
+hmm hm# INDUCTION_PROGRAM
 - **Day 1**
 - The day began with the blessings of waheguru through a path organised by the reputed institution in the college Gurudwara Sahib.
 - Welcome address
@@ -190,6 +190,20 @@ and understanding in building a campassionate community.Through practical exampl
    - Demonstrated examples on how to frame for loop programs.
    - A highly engaging and informative session filled with new learning.
    - **10:30 AM to 11:30 AM:BEEE lecture by Professor Sukhpal Singh**
+   - Introduction to DC circuits.
+   - **Concepts covered**
+    - Ohm's law
+    - Kirchoff's Current law(KCL)
+    - Kirchoffs Voltage law(KVL)
+   - Concepts were explained in a very simple and understandable manner.
+   - Sir made the session interactive by asking questions.
+   - An enjoyable lecture full of essential electrical engineering basics
+   
+     
+     
+     
+     
+    
      
      
      
