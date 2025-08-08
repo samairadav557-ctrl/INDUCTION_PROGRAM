@@ -204,7 +204,12 @@ and understanding in building a campassionate community.Through practical exampl
     - Dr.dhingra shared inspiring words and wished all the best to everyone.
     - An uplifting and encouraging session for all students.
    - **2 PM to 4PM Introduction to CML (by Dr.Lakhvir Singh Khanna)**
-    - 
+   - Introduction to **CML(Centre for multi faceted learning)**
+   - Highlighted how CML supports stydents in their future goals.
+   - Showcased various programs that run under CML.
+   - Assisted students in registering for programs relevant to their fields.
+   - A very informative and beneficial session.
+     
    
      
      
