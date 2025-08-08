@@ -1,4 +1,4 @@
-# INDUCTION_PROGRAM
+I# INDUCTION_PROGRAM
 - **Day 1**
 - The day began with the blessings of waheguru through a path organised by the reputed institution in the college Gurudwara Sahib.
 - Welcome address
@@ -24,7 +24,7 @@
    - Shared a meaningful analogy between life and continous function encouraging students to find connections between        - academics and real life.
    - Extended best wishes to all the students for the upcoming academic session.
    - Encouraged students to become independent learners abd thinkers.
-   - Emphasised the importance of setting personal milestones from the very first day of college journey.
+   - Emphasised the importance of my personal milestones from the very first day of college journey.
    - Explained the role of applied sciences in ensuring a smooth transition from school to college.
    - Reassured the students that the applied sciences department will always support and guide them.
    - Highlighted that while guidance will be provided final success and placements lie in the hands of the students.
@@ -162,11 +162,20 @@ and understanding in building a campassionate community.Through practical exampl
 - **Causmic club**
  - The final session of thr day was hosted by **the causmic club**. Representatives from the club introduced the various activities,events and programs they organize theoughtout the academic year.They passionately encouraged all the stydents to take part in these events to **enhance there communication skills,leadership abilities and teamwork.The club members also emphasized the importance of registering for upcoming recruitment drives,inviting freshers to be an active part of their dynamic community .The session ended on a high note filled with enthusiasm and motivation.
  - **Day5**
- - **9:30 AM to 10:AM Mathematics lecture by Sandeep Ma'am**
+ - **9:30 AM to 10:30AM Mathematics lecture by Sandeep Ma'am**
    - **Topic:Differential equations**
     - **Session highlights**
      - Interactive and concept clearing lecture.
      - Introduction to **order and degree** of differential equations.
      - Self evaluation through examples and practice questions.
      - Active student participation during answer discussions.
+  - **10:30 AM to 11:30 AM P2P Session(Peer to Peer learning)**
+   - **guided by seniors**
+   - Topic:**Basic programming concepts**
+   - Session highlights
+    - Introduction to programming, algorithms,pseudo code.
+    - Fundamentals of C++ language explained.
+    - Doubt clearing and beginner friendly approach.
+     
+  - 
      
