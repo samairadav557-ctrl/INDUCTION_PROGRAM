@@ -198,6 +198,13 @@ and understanding in building a campassionate community.Through practical exampl
    - Concepts were explained in a very simple and understandable manner.
    - Sir made the session interactive by asking questions.
    - An enjoyable lecture full of essential electrical engineering basics
+   - **11:30 AM to 12:30 PM break time**
+   - **12:30 PM to 2:00PM Motivational talk by (Dr.Arvind Dhingra director:STEP amd Incharge-TAC)**
+    - Motivational talk aimed at encouraging students for their future.
+    - Dr.dhingra shared inspiring words and wished all the best to everyone.
+    - An uplifting and encouraging session for all students.
+   - **2 PM to 4PM Introduction to CML (by Dr.Lakhvir Singh Khanna)**
+    - 
    
      
      
