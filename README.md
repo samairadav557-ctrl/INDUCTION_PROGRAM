@@ -215,8 +215,13 @@ and understanding in building a campassionate community.Through practical exampl
    - Introduced the **Digital marketing club** and explained it's salient features.
    - Showcased student's talent through event videos(Anand utsav,Drone activity)
    - Encouraged active participation in the club and future events
-   - **10:30 AM to 11:30 AM
-     
+   - **10:30 AM to 11:30 AM speaker-Dr.Parmimder Singh (Dean-Student welfare)**
+   - Warmly welcomed students to **Guru Nanak Dev Engineering college**.
+   - Shared the key achievements and legacy of the institution.
+   - Extended best wishes for the students academic journey and future.
+   - **11:30 AM to 12:30 PM Speaker:Dr Randhir Singh Sir (Conduct of Examinations)**
+   - 
+   
    
      
      
