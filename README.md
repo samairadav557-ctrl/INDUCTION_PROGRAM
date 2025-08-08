@@ -171,11 +171,19 @@ and understanding in building a campassionate community.Through practical exampl
      - Active student participation during answer discussions.
   - **10:30 AM to 11:30 AM P2P Session(Peer to Peer learning)**
    - **guided by seniors**
-   - Topic:**Basic programming concepts**
+   - Topic:**Basic programming concepts
    - Session highlights
     - Introduction to programming, algorithms,pseudo code.
     - Fundamentals of C++ language explained.
     - Doubt clearing and beginner friendly approach.
+  - **11:30 AM to 12:30 AM BEEE Session (Prof.Sukhpal Singh Sir)**
+   - Session highlights
+   - Sir began with a personal introduction to ease students into the environment.
+   - Discussed foundational electronics concepts.
+   - Provided detailed syllabus walkthrough.
+   - Shared information about **upcoming tests and assessments in the course.
      
-  - 
+     
+     
+ 
      
