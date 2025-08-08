@@ -161,3 +161,12 @@ and understanding in building a campassionate community.Through practical exampl
  - The third session of the day was delivered by Dr.Priya darshani who continued her enlightening discussion on           **Universal Human values**.She elaborated on the importance pf values in personal,academic and professional lives.Dr       Priya darshani fostered a two way dialogue with students ensuring everyone was engaged.Her thoughtful approach           encouraged students to reflect on the significance of ethics,empathy and responsible behaviour in shaping their future.The participation was commendable and reflected the students keen interest in the subject.
 - **Causmic club**
  - The final session of thr day was hosted by **the causmic club**. Representatives from the club introduced the various activities,events and programs they organize theoughtout the academic year.They passionately encouraged all the stydents to take part in these events to **enhance there communication skills,leadership abilities and teamwork.The club members also emphasized the importance of registering for upcoming recruitment drives,inviting freshers to be an active part of their dynamic community .The session ended on a high note filled with enthusiasm and motivation.
+ - **Day5**
+ - **9:30 AM to 10:AM Mathematics lecture by Sandeep Ma'am**
+   - **Topic:Differential equations**
+    - **Session highlights**
+     - Interactive and concept clearing lecture.
+     - Introduction to **order and degree** of differential equations.
+     - Self evaluation through examples and practice questions.
+     - Active student participation during answer discussions.
+     
