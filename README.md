@@ -220,7 +220,22 @@ and understanding in building a campassionate community.Through practical exampl
    - Shared the key achievements and legacy of the institution.
    - Extended best wishes for the students academic journey and future.
    - **11:30 AM to 12:30 PM Speaker:Dr Randhir Singh Sir (Conduct of Examinations)**
-   - 
+   - **Day8**
+- **9 AM to 10:30 AM Maths lecture by Sandeep ma'am**
+- Began the lecture with **differential equations**
+- Taught homogeneous differential equations,variable separable form and so on.
+- Also guided students how to solve the problems effectively
+- **10:30 AM to 11:30 AM Lecture by Prof Jaswant Singh**
+- Gave information about coding language.
+- Also told about the importance of skill building in today's technically advancing world.
+- Told students that coding is as much important in IT/CSE as food is important for growth and development.
+- Made the session an interactive one
+- **11:30 AM to 12 Noon (Proficiency test discussion by seniors)**
+- Seniors discussed about our performance in the proficiency test
+- They also guided us on how to prepare well for test the next time it will be taken.
+- They also discussed our flaws in the test.
+- Also encouraged us to perform our level best in the next test.
+  
    
    
      
