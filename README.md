@@ -1,4 +1,4 @@
-I# INDUCTION_PROGRAM
+# INDUCTION_PROGRAM
 - **Day 1**
 - The day began with the blessings of waheguru through a path organised by the reputed institution in the college Gurudwara Sahib.
 - Welcome address
