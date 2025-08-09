@@ -1,6 +1,5 @@
 # INDUCTION_PROGRAM
 - **Day 1**
-- 518409030_1175947774575935_8620749349457710319_n.jpg
 - The day began with the blessings of waheguru through a path organised by the reputed institution in the college Gurudwara Sahib.
 - Welcome address
 - **Speaker**:Mr Harsimran Singh Jaggi 
