@@ -28,8 +28,8 @@
    - Explained the role of applied sciences in ensuring a smooth transition from school to college.
    - Reassured the students that the applied sciences department will always support and guide them.
    - Highlighted that while guidance will be provided final success and placements lie in the hands of the students.
- - **Akshay girdhar sir(Dean)**:
-   - **Acquire good skills**:Focus on building strong foundational and technical skills throughout the academic journey.
+ - #**Akshay girdhar sir(Dean)**:
+   - ##**Acquire good skills**:Focus on building strong foundational and technical skills throughout the academic journey.
    - **Be curious and ask questions**:Cultivate a mindset of curiosity.Ask questions and explore to deepen your                  understanding.
    - **Interact with seniors**:Regularly engage with senior students and faculty members to gain insights and guidance.
    - **Peer learning**:Collaborate with peers for knowledge sharing.Peer learning os essential for holistic growth.
@@ -41,7 +41,7 @@
    - **Building confidence**: Confidence grows through practical experience and learning.Be proactive and believe in your        abilities.
    - **Engineering beyond equations**: Engineering is not limited to solving equations.It involves understanding and             adressing real world problems.
    - **Contribute to society**:Aim to solve complex societal problems with the knowledge gained.Make meaningful                  contributions to society.
- - **Welcome address:Parminder singh sir(Dean)**
+ - #**Welcome address:Parminder singh sir(Dean)**
    - Dean Parminder songh sir warmly welcomed all newly admitted students to **Guru Nanak Dev Engineering College(GNE)
    - Higlighted GNE's glorious legacy of 69 years in technical education and excellence.
    - The induction coincided with the shaheedi diwas of **Sardar Udham Singh**:
