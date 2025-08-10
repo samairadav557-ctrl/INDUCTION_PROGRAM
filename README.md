@@ -1,5 +1,6 @@
 # INDUCTION_PROGRAM
 - **Day 1**
+- ![Image](https://github.com/user-attachments/assets/190ce631-9b31-48c3-97bf-797175cc2ddf)
 - The day began with the blessings of waheguru through a path organised by the reputed institution in the college Gurudwara Sahib.
 - Welcome address
 - **Speaker**:Mr Harsimran Singh Jaggi 
@@ -20,6 +21,7 @@
    - Practice aptitude which is a key component in hiring process.
    - **Communication skills**: Emphasised the importance of strong communication skills for interviews.
    - **Message to juniors**:Grateful for the warming environment and opportunity provided by the college.
+   - ![Image](https://github.com/user-attachments/assets/bed104e7-15be-433b-b463-ba2a82e437ea)
  - **Harpreet kaur grewal ma'am(Head of applied sciences)**:Welcomed and greeted all new students with sat shri akal.
    - Shared a meaningful analogy between life and continous function encouraging students to find connections between        - academics and real life.
    - Extended best wishes to all the students for the upcoming academic session.
@@ -121,6 +123,7 @@
    available financial aid opportunities.-
  - **Day3**
  - **Mr Jaswinder Singh Sir**
+ - ![Image](https://github.com/user-attachments/assets/e7ef6819-16c0-4e0b-9404-6f5c85308683)
  - The third day of the induction program began with the warm welcome to **Mr Jaswinder Singh Sir** fondly known as the     face behind JaswinS science on wheels.Renowmed for his engaging and innovative teaching methods.
  - Jaswinder sir bought a unique blend of science and spirituality to the session.
  - He opened the session by sharing insightful devotional sights,emphasising the role of faith, discipline,gratitude in     both personal and academic life.
@@ -158,6 +161,7 @@ and understanding in building a campassionate community.Through practical exampl
  - Following the English session,**the next lecture was conducted by Rajvir Kaur 
    Ma'am from the chemistry department**.She began by introducing herself to the students amd then shared her insights      **on basic chemistry concepts that go beyond textbook learning**.She highlighted the importance of understanding real    world applications of chemistry.In addition she provided a detailed overview of the semester's course structure          giving students clarity on what to expect in the coming months.This session,too maintained an interactive tone           encouraging student involvement throughout.
 - **Dr.Priya darshani ma'am**
+- ![Image](https://github.com/user-attachments/assets/caaaa896-4f75-41da-8d38-73bb86aadc6d)
  - The third session of the day was delivered by Dr.Priya darshani who continued her enlightening discussion on           **Universal Human values**.She elaborated on the importance pf values in personal,academic and professional lives.Dr       Priya darshani fostered a two way dialogue with students ensuring everyone was engaged.Her thoughtful approach           encouraged students to reflect on the significance of ethics,empathy and responsible behaviour in shaping their future.The participation was commendable and reflected the students keen interest in the subject.
 - **Causmic club**
  - The final session of thr day was hosted by **the causmic club**. Representatives from the club introduced the various activities,events and programs they organize theoughtout the academic year.They passionately encouraged all the stydents to take part in these events to **enhance there communication skills,leadership abilities and teamwork.The club members also emphasized the importance of registering for upcoming recruitment drives,inviting freshers to be an active part of their dynamic community .The session ended on a high note filled with enthusiasm and motivation.
@@ -210,6 +214,7 @@ and understanding in building a campassionate community.Through practical exampl
    - Assisted students in registering for programs relevant to their fields.
    - A very informative and beneficial session.
    - **Day7**
+   - ![Image](https://github.com/user-attachments/assets/4cd73036-f247-4594-8fbc-9fb9bab7b5cf)
    - **9:30 AM to 10:30AM speaker Dr.Amit Kamra(DMC)**
    - Welcomed the students and initiated an active session.
    - Introduced the **Digital marketing club** and explained it's salient features.
